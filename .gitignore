@@ -1,0 +1,7 @@
+./src/*.o
+./src/blocks/*.o
+./src/commands/*.o
+*.o
+*.d
+quadris
+.vscode/

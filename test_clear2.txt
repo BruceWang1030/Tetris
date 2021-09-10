@@ -1,0 +1,15 @@
+drop
+11ri
+drop
+6ri
+drop
+cl
+3ri
+drop
+11ri
+drop
+2cl
+drop
+co
+4ri
+10do
